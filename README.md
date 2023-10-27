@@ -1,2 +1,2 @@
-# python_advanced
-Assignments from Python Advance course
+# python_orm
+Assignments from Python ORM course
